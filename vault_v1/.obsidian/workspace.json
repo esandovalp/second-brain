@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "04445878e2bda071",
+        "id": "d62cefecfd141b22",
         "type": "tabs",
         "children": [
           {
-            "id": "6e6d0e039578d9fe",
+            "id": "289a3aa2e4b92cdf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tarea 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tarea 1"
+              "title": "New tab"
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "right": {
     "id": "c9d66942d0929fed",
@@ -145,13 +140,23 @@
               "icon": "lucide-list",
               "title": "Outline of CP2 pt2"
             }
+          },
+          {
+            "id": "89f23cb9977e2c9b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,15 +170,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e6d0e039578d9fe",
+  "active": "289a3aa2e4b92cdf",
   "lastOpenFiles": [
+    "Tarea 1.md",
     "Guía final modelado 1.md",
     "Dual Simplex.md",
     "Método simplex.md",
     "algoritmo de Kruskal.md",
     "Método Húngaro o Algoritmo Munkrees.md",
     "Método esquina noroeste, costo mas bajo, Vogel.md",
-    "Tarea 1.md",
     "Tarea.md",
     "logseq/bak/logseq/config/2024-12-09T20_37_07.558Z.Desktop.edn",
     "logseq/bak/logseq/config/2024-12-09T20_36_36.615Z.Desktop.edn",
