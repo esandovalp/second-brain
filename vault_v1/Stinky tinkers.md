@@ -1,0 +1,3 @@
+As their name suggests, they're stinky, but they were also tinkerers well before they built their town. 
+Their need to form a town came suddenly, as suddenly in one of their travels, they found a mountain that had lots of coal on the surface. Rag, the groups senior miner, had to, just had to stayed for a bit to get some of that coal out and about, and Poot the leader, agreed. 
+As you would image, days turn to weeks, that turn into months, that turn into years, and so the stinky tinkers became a town.

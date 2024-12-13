@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "tag:#linealprogramming  ",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.20935872395833,
+  "lineSizeMultiplier": 1.82564697265625,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.2489587665030575,
+  "close": true
+}

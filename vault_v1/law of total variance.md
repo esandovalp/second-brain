@@ -1,0 +1,1 @@
+$$Var(Y)=E[Var(Y|X)]+Var(E[Y|X])$$
